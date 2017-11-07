@@ -1,0 +1,3 @@
+<!-- What happens when you initialize a repository? Why do you need to do it? -->
+It creates a snapshot of all the files within that directory in their current states.
+If a new file is added to that directory it then displays the addition of that file within the repository.
