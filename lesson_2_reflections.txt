@@ -1,3 +1,7 @@
 <!-- What happens when you initialize a repository? Why do you need to do it? -->
 It creates a snapshot of all the files within that directory in their current states.
 If a new file is added to that directory it then displays the addition of that file within the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- The staging area is different from the working directory in that the working directory contains all files that are in the repository. The staging area simply
+identifies which files the user would like to add to the commit before he or she makes it and only changes in those files will get added to the commit.
